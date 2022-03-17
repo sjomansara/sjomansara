@@ -1,7 +1,7 @@
 ### Hello, I'm Sara! 👋
 
 ### I'm a frontend developer from Finland, currently based in Munich, Germany.
-- I have several git repositories showcasing my skills in Javascript and React.js, and frontend skills such as HTML and CSS.
+- I have several git repositories showcasing my skills in Javascript, React.js, HTML and CSS.
 
 ### Connect with me:
 
